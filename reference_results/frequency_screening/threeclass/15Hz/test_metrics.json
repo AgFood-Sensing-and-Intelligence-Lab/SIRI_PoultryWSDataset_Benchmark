@@ -1,0 +1,13 @@
+{
+    "frequency": 15,
+    "frequency_cycles_mm": 0.15,
+    "best_epoch": 11,
+    "best_val_f1": 0.8303499365848035,
+    "test_accuracy": 0.7572815533980582,
+    "test_precision_macro": 0.7894758146124267,
+    "test_recall_macro": 0.7289405684754522,
+    "test_f1_macro": 0.7298770430349378,
+    "grade1_f1": 0.9122807017543859,
+    "grade2_f1": 0.4888888888888889,
+    "grade3_4_f1": 0.7884615384615384
+}

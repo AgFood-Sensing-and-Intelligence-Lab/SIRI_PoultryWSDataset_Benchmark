@@ -1,0 +1,16 @@
+{
+    "frequency_cycles_mm": 0.4,
+    "best_epoch": 8,
+    "best_val_f1": 0.9304861426624261,
+    "test_loss": 0.25947679174177857,
+    "test_accuracy": 0.912621359223301,
+    "test_precision_macro": 0.9049707602339181,
+    "test_recall_macro": 0.8794520547945206,
+    "test_f1_macro": 0.8908512892970681,
+    "normal_precision": 0.8888888888888888,
+    "normal_recall": 0.8,
+    "normal_f1": 0.8421052631578947,
+    "defective_precision": 0.9210526315789473,
+    "defective_recall": 0.958904109589041,
+    "defective_f1": 0.9395973154362416
+}
