@@ -1,0 +1,13 @@
+{
+  "mode": "ac",
+  "seed": 456,
+  "best_epoch": 7,
+  "best_val_f1": 0.8104188564850178,
+  "test_accuracy": 0.7669902912621359,
+  "test_f1_macro": 0.7562707175110276,
+  "grade1_f1": 0.8484848484848485,
+  "grade2_f1": 0.6296296296296297,
+  "grade3_4_f1": 0.7906976744186046,
+  "task": "threeclass",
+  "frequency": 40
+}
