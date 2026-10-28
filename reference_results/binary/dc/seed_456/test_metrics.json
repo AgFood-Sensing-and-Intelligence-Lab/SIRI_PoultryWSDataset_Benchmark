@@ -1,0 +1,10 @@
+{
+  "mode": "dc",
+  "seed": 456,
+  "best_epoch": 12,
+  "best_val_f1": 0.8926943308007014,
+  "test_accuracy": 0.8932038834951457,
+  "test_f1_macro": 0.8635761589403974,
+  "normal_f1": 0.8,
+  "ws_affected_f1": 0.9271523178807947
+}
